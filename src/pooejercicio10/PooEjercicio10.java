@@ -11,7 +11,7 @@ public class PooEjercicio10 {
 
         double[] va = new double[50];
         double[] vb = new double[20];
-
+        System.out.println("Hola");
         for (int i = 0; i < 50; i++) {
             va[i] = Math.random() * 50;
             int cont = i + 1;
